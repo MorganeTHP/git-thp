@@ -1,1 +1,1 @@
-Ceci est mon premier rep GitHub !
+Ceci est mon premier GitHub
